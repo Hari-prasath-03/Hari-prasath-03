@@ -64,8 +64,8 @@
 
 ### 🧠 My Top Projects
 
-- 💙 [**MyPortfolio**](https://github.com/hari-prasath-03/My-portfolio) — A Spring Boot-based random quote generator with custom rate-limiting and JWT auth  
-- ❌ [**LivePlay**](https://github.com/hari-prasath-03/live-play-server) — Markdown editor built with React, typescript, tailwind + Firebase
+- 💙 [**MyPortfolio**](https://github.com/hari-prasath-03/My-portfolio) — A modern developer portfolio with React, Typescript and Framer-motion  
+- ❌ [**LivePlay**](https://github.com/hari-prasath-03/live-play-server) — A two player tic-tac-toe game where both player can connect and play via room-id
   
 ---
 
