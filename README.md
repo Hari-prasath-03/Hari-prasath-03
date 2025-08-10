@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=%7CEngineer+%7C+FullStack+Web+Developer;Java+%7C+Spring+Boot+%7C+React;I+design+and+build+scalable+apps" alt="TypingSVG"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hari-prasath-03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -65,7 +69,7 @@
 ### 🧠 My Top Projects
 
 - 💙 [**MyPortfolio**](https://github.com/hari-prasath-03/My-portfolio) — A modern developer portfolio with React, Typescript and Framer-motion  
-- ❌ [**LivePlay**](https://github.com/hari-prasath-03/live-play-server) — A two player tic-tac-toe game where both player can connect and play via room-id
+- 🅾️ [**LivePlay**](https://github.com/hari-prasath-03/live-play-server) — A two player tic-tac-toe game where both player can connect and play via room-id using Spring boot and React
   
 ---
 
