@@ -64,8 +64,8 @@
 
 ### 🧠 My Top Projects
 
-- 🔐 [**QuoteLock**](https://github.com/hari-prasath-03/QuoteLock-server) — A Spring Boot-based random quote generator with custom rate-limiting and JWT auth  
-- 📄 [**InkMark**](https://github.com/hari-prasath-03/InkMark) — Markdown editor built with React, typescript, tailwind + Firebase
+- 💙 [**MyPortfolio**](https://github.com/hari-prasath-03/My-portfolio) — A Spring Boot-based random quote generator with custom rate-limiting and JWT auth  
+- ❌ [**LivePlay**](https://github.com/hari-prasath-03/live-play-server) — Markdown editor built with React, typescript, tailwind + Firebase
   
 ---
 
